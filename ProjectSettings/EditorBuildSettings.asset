@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FaceTwo.unity
+    guid: 389806e020bdaf64aa53ebbdf90c6f9c
+  - enabled: 1
+    path: Assets/Scenes/ImageTrack.unity
+    guid: 79372edb32e4cc642b536a852c7f1d29
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c0aba18175343fc418545e10013cc65c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6e40266129d76494fa0e692244a5148b, type: 2}
